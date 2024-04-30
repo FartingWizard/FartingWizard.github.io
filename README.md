@@ -14,7 +14,7 @@
 
 <body text=438A00>
 
-  ## **All Destruction Scrolls 60% off!!!**
+## **All Destruction Scrolls 60% off!!!**
 
 </body>
 
