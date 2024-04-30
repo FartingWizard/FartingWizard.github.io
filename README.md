@@ -10,8 +10,10 @@
 
 [Willy](https://fartingwizard.github.io/Willy/)
 
-
+<body>
+<body bgcolor=438A00>
 ## **All Destruction Scrolls 60% off!!!**
+</body>
 
 ~~FartingWizard is not responsible for any damage caused by misuse of scrolls~~
 
