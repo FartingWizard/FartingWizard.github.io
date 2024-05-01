@@ -4,9 +4,10 @@
 ## Checklist
 - [x] JonathanCherry
 - [x] Github Account
-- [x] Repository x2 FartingWizard.github.io // 
+- [x] Repository x2 FartingWizard.github.io // WIlly
 - [x] Image
 - [x] Link to Hello World Webpage
+- [x] Add colour to "Hello World" page 
 
 [Willy](https://fartingwizard.github.io/Willy/)
 
