@@ -4,12 +4,12 @@
 ## Checklist
 - [x] JonathanCherry
 - [x] Github Account
-- [x] Repository x2 FartingWizard.github.io // Potions
+- [x] Repository x2 FartingWizard.github.io // Potion Shop
 - [x] Image
 - [x] Link to Hello World Webpage
 - [x] Add colour to "Hello World" page 
 
-[Willy](https://fartingwizard.github.io/Potions/)
+[Potion Shop](https://fartingwizard.github.io/Potions/)
 
 ## **All Destruction Scrolls 60% off!!!**
 
