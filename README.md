@@ -10,6 +10,7 @@
 - [x] Add colour to "Hello World" page 
 
 [Potion Shop](https://fartingwizard.github.io/Potions/)
+
 [Rubric](https://fartingwizard.github.io/index.html/)
 
 ## **All Destruction Scrolls 60% off!!!**
