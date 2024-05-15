@@ -4,14 +4,14 @@ h1{
   border:2px DarkOrchid;
   Background-color: #5a5675;
   color: Black;
-  font-family:Copperplate, Papyrus, Fantasy;
+  font-family: "Garamond", serif;
 }
 
 h2{ 
    border:2px DarkOrchid;
    text-align: center;
    color: Black;
-   font-family:Copperplate, Papyrus, Fantasy;
+   font-family: "Garamond", serif;
   }
 
 .image-center{
