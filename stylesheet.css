@@ -21,6 +21,10 @@ h2{
   
 }
 
+body{ 
+background-color: #E6E6FA; 
+}
+
 ul {
   list-style-type: none;
   margin: 0;
