@@ -25,6 +25,10 @@ body{
 background-color: #b1adc9; 
 }
 
+p{
+text-align: center;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
