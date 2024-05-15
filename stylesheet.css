@@ -2,15 +2,15 @@ h1{
   text-decoration-line: underline;
   text-align: center;
   border:2px DarkOrchid;
-  Background-color: Purple;
-  color: Blue;
+  Background-color: #5a5675;
+  color: Black;
   font-family:Copperplate, Papyrus, Fantasy;
 }
 
 h2{ 
    border:2px DarkOrchid;
    text-align: center;
-   color: Blue;
+   color: Black;
    font-family:Copperplate, Papyrus, Fantasy;
   }
 
@@ -22,7 +22,7 @@ h2{
 }
 
 body{ 
-background-color: Grey; 
+background-color: #b1adc9; 
 }
 
 ul {
@@ -30,7 +30,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;  
-   background-color: Purple;
+   background-color: #5a5675;
   position: fixed;
   bottom: 0;
   width: 100%;
