@@ -1,15 +1,8 @@
 # Amelia's Website
 
 ✧˖*°࿐ Proficient in ***Fart Magic*** ✧˖*°࿐
-## Checklist
-- [x] JonathanCherry
-- [x] Github Account
-- [x] Repository x2 FartingWizard.github.io // Potion Shop
-- [x] Image
-- [x] Link to Hello World Webpage
-- [x] Add colour to "Hello World" page 
 
-[Potion Shop](https://fartingwizard.github.io/Potions/)
+[Wizarding Guide](https://fartingwizard.github.io/Home-Page/)
 
 [Rubric](https://fartingwizard.github.io/index.html/)
 
